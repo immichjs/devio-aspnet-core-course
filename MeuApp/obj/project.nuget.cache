@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+Opsp1wNbWNyZoxogaMeA6p5cNR06O8RcdzqKAAS49ycN6Riet9aqrFmL8rQMdMfAFNrChXGvQCFYN2CNhn/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\immic\\Desktop\\2023\\aspnet-core\\MeuApp\\MeuApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\immic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\immic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\immic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\immic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
